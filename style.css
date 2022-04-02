@@ -1,0 +1,35 @@
+.info {
+    text-align: right;
+}
+header {
+    width: 70%;
+    margin: 0 auto;
+    padding: 30px;
+}
+header img {
+    height: 120px;
+    width: 150px;
+}
+span {
+    padding: 15px;
+    font-size: 14px;
+    color: grey;
+    margin: 0px 0px;
+}
+.image {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+nav a{
+    margin: 0px 10px;
+    text-decoration: none;
+    color: grey;
+}
+nav a img {
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 14px;
+    height: 14px;
+}
